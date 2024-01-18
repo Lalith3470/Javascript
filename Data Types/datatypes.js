@@ -85,6 +85,6 @@
 // console.log(fun(8,9))
 
 
-new promise((resolve, reject)=>{
-    
-})
+let a=10;
+let b=10;
+console.log(a+b);
