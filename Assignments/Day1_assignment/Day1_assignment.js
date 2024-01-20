@@ -79,7 +79,7 @@
 
 
 
-function fun(a,b){
-    return a*b;
-}
-console.log(fun(8,9))
+// function fun(a,b){
+//     return a*b;
+// }
+// console.log(fun(8,9))

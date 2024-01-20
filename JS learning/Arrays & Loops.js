@@ -56,3 +56,57 @@
 // let s="Lalith Kiran"
 // console.log(s.slice(1,8));
 
+// const numbers = [43, 12, 67, 89, 5, 21, 54, 78];
+
+// let maxNumber = numbers[0];
+
+// for (let i = 1; i < numbers.length; i++) {
+//   if (numbers[i] > maxNumber) {
+//     maxNumber = numbers[i];
+//   }
+// }
+
+// console.log("Maximum number:", maxNumber);
+
+
+// const numbers = [10, 20, 30, 40, 50];
+// let sum = 0;
+
+// for (let i = 0; i < numbers.length; i++) {
+//   sum += numbers[i];
+// }
+
+// console.log("Sum of elements:", sum);
+
+
+// const numbers = [2, 4, 6, 8, 10];
+// const doubledNumbers = [];
+
+// for (let i = 0; i < numbers.length; i++) {
+//   doubledNumbers.push(numbers[i] * 2);
+// }
+
+// console.log("Doubled numbers:", doubledNumbers);
+
+
+// const numbers = [3, 8, 12, 17, 22, 30];
+// let evenCount = 0;
+
+// for (let i = 0; i < numbers.length; i++) {
+//   if (numbers[i] % 2 === 0) {
+//     evenCount++;
+//   }
+// }
+
+// console.log("Number of even elements:", evenCount);
+
+
+// const grades = [85, 92, 78, 95, 88];
+// let total = 0;
+
+// for (let i = 0; i < grades.length; i++) {
+//   total += grades[i];
+// }
+
+// const average = total / grades.length;
+// console.log("Average grade:", average);
