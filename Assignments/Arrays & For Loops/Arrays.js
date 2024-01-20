@@ -101,12 +101,12 @@
 // console.log("Number of even elements:", evenCount);
 
 
-// const grades = [85, 92, 78, 95, 88];
-// let total = 0;
+const grades = [85, 92, 78, 95, 88];
+let total = 0;
 
-// for (let i = 0; i < grades.length; i++) {
-//   total += grades[i];
-// }
+for (let i = 0; i < grades.length; i++) {
+  total += grades[i];
+}
 
-// const average = total / grades.length;
-// console.log("Average grade:", average);
+const average = total / grades.length;
+console.log("Average grade:", average);
