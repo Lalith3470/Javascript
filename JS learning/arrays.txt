@@ -1,6 +1,0 @@
-Slice
-Push
-Pop
-Join
-Split
-Splice
